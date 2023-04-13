@@ -1,0 +1,156 @@
+Uri: https://gloop.finance/
+File Name: C:\Downloaded Web Sites\gloop.finance\index.htm
+Content Type: text/html
+
+Uri: https://gloop.finance/_next/static/chunks/45-f24ab67525ba8017.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\45-f24ab67525ba8017.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/809-136b5794d1fbb096.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\809-136b5794d1fbb096.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/framework-73b8966a3c579ab0.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\framework-73b8966a3c579ab0.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/main-6260d066cf2cd7b1.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\main-6260d066cf2cd7b1.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/pages/index-a7a8e8bdc73971ca.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\pages\index-a7a8e8bdc73971ca.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/pages/_app-d0a9d57b0c2b9878.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\pages\_app-d0a9d57b0c2b9878.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/chunks/webpack-08e1b0a39d0485ef.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\chunks\webpack-08e1b0a39d0485ef.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/css/02b23757f2547cb2.css
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\css\02b23757f2547cb2.css
+Content Type: text/css
+
+Uri: https://gloop.finance/_next/static/css/1f03878ba397cdaa.css
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\css\1f03878ba397cdaa.css
+Content Type: text/css
+
+Uri: https://gloop.finance/_next/static/F3s0tNpDtDTD9jWz84bat/_buildManifest.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\F3s0tNpDtDTD9jWz84bat\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/F3s0tNpDtDTD9jWz84bat/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\F3s0tNpDtDTD9jWz84bat\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://gloop.finance/_next/static/media/bgImg.c8c8e3fe.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\bgImg.c8c8e3fe.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/buildtoboost.45f7b78f.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\buildtoboost.45f7b78f.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/discord 2.58d9c3a6.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\discord 2.58d9c3a6.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/document.46662e37.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\document.46662e37.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/gloop_logo.e2b0893f.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\gloop_logo.e2b0893f.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 405.f8da528f.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 405.f8da528f.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7350.34ab32f7.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7350.34ab32f7.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7417.9fcf9e3b.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7417.9fcf9e3b.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7418.c0ef46ce.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7418.c0ef46ce.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7419.64abf3c6.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7419.64abf3c6.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7438.0bc6ad83.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7438.0bc6ad83.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7439.5913c2f2.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7439.5913c2f2.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7440.aa7b5849.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7440.aa7b5849.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Group 7441.14ce3350.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Group 7441.14ce3350.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/icon_numbers.be04ccf5.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\icon_numbers.be04ccf5.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Medium.5ca586df.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Medium.5ca586df.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/menu.d2f170b9.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\menu.d2f170b9.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Polygon.4fb6818e.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Polygon.4fb6818e.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Poppins-Medium.a52d0bf0.ttf
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Poppins-Medium.a52d0bf0.ttf
+Content Type: font/ttf
+
+Uri: https://gloop.finance/_next/static/media/Rectangle 4367.43a36bc8.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Rectangle 4367.43a36bc8.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Rectangle.2b018799.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Rectangle.2b018799.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Social Icons Footer (1).33331ace.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Social Icons Footer (1).33331ace.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Social Icons Footer (2).d7a7791a.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Social Icons Footer (2).d7a7791a.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Social Icons Footer (3).c6a9e44a.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Social Icons Footer (3).c6a9e44a.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Social Icons Footer.a35f5979.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Social Icons Footer.a35f5979.svg
+Content Type: image/svg+xml
+
+Uri: https://gloop.finance/_next/static/media/Twitter2.e40007c1.svg
+File Name: C:\Downloaded Web Sites\gloop.finance\_next\static\media\Twitter2.e40007c1.svg
+Content Type: image/svg+xml
+
